@@ -1,6 +1,8 @@
 ##안드로이드 스튜디오 설치 및 실행화면
 # ![image](https://user-images.githubusercontent.com/79883576/110235382-0f530e00-7f73-11eb-9980-362486bc1560.png)
 
+
+
 #Herrmann brain 특성 결과
 
 A : 6개
